@@ -201,8 +201,3 @@ All other specification endpoints are **not implemented** yet.
 | docs/deployment.md | Phase 28 |
 | docs/demo.md | Phase 28 |
 
----
-
-## License
-
-MIT — see [LICENSE](LICENSE).
